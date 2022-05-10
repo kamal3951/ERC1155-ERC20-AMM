@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\dushy\\OneDrive\\Desktop\\Blocsoc\\chainlink hackathon\\ERC1155-ERC20-AMM\\contracts\\Factory.sol": {
+      "lastModificationDate": 1652098768885,
+      "contentHash": "07010c4b08ad5fbc1f93bedd545e1617",
+      "sourceName": "contracts/Factory.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.8.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Factory"
+      ]
+    },
+    "C:\\Users\\dushy\\OneDrive\\Desktop\\Blocsoc\\chainlink hackathon\\ERC1155-ERC20-AMM\\contracts\\Pair.sol": {
+      "lastModificationDate": 1652098777893,
+      "contentHash": "d6b5e8ba3a41d9b5ed5e1ea9e6489ee7",
+      "sourceName": "contracts/Pair.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">0.8.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Pair"
+      ]
+    }
+  }
+}
